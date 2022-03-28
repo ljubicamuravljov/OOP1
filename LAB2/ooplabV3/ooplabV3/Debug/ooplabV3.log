@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\FAKULTET\3. semestar\OOP1\LAB2\ooplabV3\ooplabV3\skup.h(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\FAKULTET\3. semestar\OOP1\LAB2\ooplabV3\ooplabV3\rec.h(18,21): warning C4018: '<': signed/unsigned mismatch
+  ooplabV3.vcxproj -> C:\FAKULTET\3. semestar\OOP1\LAB2\ooplabV3\Debug\ooplabV3.exe
